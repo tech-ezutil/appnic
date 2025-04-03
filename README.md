@@ -9,11 +9,19 @@
 ![Appnic Interface](./imgs/appnic.png) <!-- Replace with actual screenshot URL -->
 *Appnic's simple and intuitive interface*
 
-![Wrapped App Example](./imgs/tiktok.png) <!-- Replace with actual screenshot URL -->
-*Example of a wrapped web app running as a desktop application*
+<div style="text-align: center;">
+    <img src="./imgs/tiktok.png" alt="Appnic's simple and intuitive interface" style="width:70%;">
+    <div>
+        *Example of a wrapped tiktok-uploader-page running as a desktop application*
+    </div>
+</div>
 
-![Wrapped App Example](./imgs/adhref.png) <!-- Replace with actual screenshot URL -->
-*Example of a wrapped adhref app running as a desktop application*
+<div style="text-align: center;">
+    <img src="./imgs/adhref.png" alt="Example of a wrapped adhref app running as a desktop application" style="width:70%">
+    <div>
+        *Example of a wrapped adhref-home-page app running as a desktop application*
+    </div>
+</div>
 
 ## Features
 
